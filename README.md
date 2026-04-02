@@ -1,8 +1,12 @@
+<div align="center">
+
 # MyClaw.ai
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue)](https://myclaw.ai)
 
 Your personal AI server. Full code control. Unlimited possibilities.
+
+</div>
 
 ## What is MyClaw.ai?
 

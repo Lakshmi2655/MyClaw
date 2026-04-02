@@ -1,3 +1,5 @@
+<div align="center">
+
 # MyClaw.ai
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue)](https://myclaw.ai)
@@ -5,6 +7,8 @@
 你的个人 AI 服务器。完全代码控制。无限可能。
 
 [English](./README.md) | 中文
+
+</div>
 
 ## MyClaw.ai 是什么？
 
