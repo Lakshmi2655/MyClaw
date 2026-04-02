@@ -90,10 +90,10 @@ MyClaw.ai powers and maintains key OpenClaw ecosystem projects:
 
 ## Community & Support
 
-- 📖 **Documentation** — [docs.openclaw.ai](https://docs.openclaw.ai)
-- 💬 **Discord** — [discord.com/invite/clawd](https://discord.com/invite/clawd)
-- 🐙 **GitHub** — [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
 - 🌐 **Website** — [myclaw.ai](https://myclaw.ai)
+- 📖 **Documentation** — [docs.openclaw.ai](https://docs.openclaw.ai)
+- 🐙 **GitHub** — [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
+- 💬 **Reddit** — [r/myclaw](https://reddit.com/r/myclaw)
 - 𝕏 **Twitter** — [@MyClaw_Official](https://x.com/MyClaw_Official)
 
 ## Roadmap

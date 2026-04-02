@@ -92,10 +92,10 @@ MyClaw.ai 驱动并维护关键 OpenClaw 生态项目：
 
 ## 社区与支持
 
-- 📖 **文档** — [docs.openclaw.ai](https://docs.openclaw.ai)
-- 💬 **Discord** — [discord.com/invite/clawd](https://discord.com/invite/clawd)
-- 🐙 **GitHub** — [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
 - 🌐 **官网** — [myclaw.ai](https://myclaw.ai)
+- 📖 **文档** — [docs.openclaw.ai](https://docs.openclaw.ai)
+- 🐙 **GitHub** — [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
+- 💬 **Reddit** — [r/myclaw](https://reddit.com/r/myclaw)
 - 𝕏 **Twitter** — [@MyClaw_Official](https://x.com/MyClaw_Official)
 
 ## 路线图
