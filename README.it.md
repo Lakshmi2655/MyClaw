@@ -1,12 +1,14 @@
 <div align="center">
 
+<a href="https://myclaw.ai">
+  <img src="./assets/banner.png" alt="MyClaw.ai" width="600" />
+</a>
+
 # 🦞 MyClaw.ai 🏆
 
-[![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=for-the-badge)](https://myclaw.ai)
-[![Reddit](https://img.shields.io/badge/Reddit-r%2Fmyclaw-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/r/myclaw)
-[![Twitter](https://img.shields.io/badge/Twitter-@MyClaw__Official-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MyClaw_Official)
-
 **Il tuo server IA personale. Controllo completo del codice. Possibilità illimitate.**
+
+[![Website](https://img.shields.io/badge/myclaw.ai-Visit-blue?style=flat-square)](https://myclaw.ai) [![Reddit](https://img.shields.io/badge/Reddit-r%2Fmyclaw-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/r/myclaw) [![Twitter](https://img.shields.io/badge/𝕏-@MyClaw__Official-000?style=flat-square&logo=x&logoColor=white)](https://x.com/MyClaw_Official)
 
 [English](./README.md) · [中文](./README.zh-CN.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [Русский](./README.ru.md) · [日本語](./README.ja.md) · [Italiano](./README.it.md) · [Español](./README.es.md)
 
