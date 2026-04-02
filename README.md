@@ -2,7 +2,7 @@
 
 <h1><img src="https://img.shields.io/badge/MyClaw.ai-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="MyClaw.ai" /></h1>
 
-# 🚀 MyClaw.ai
+# 🦞 MyClaw.ai 🏆
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=for-the-badge)](https://myclaw.ai)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Fmyclaw-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/r/myclaw)
