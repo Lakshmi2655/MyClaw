@@ -1,0 +1,21 @@
+{
+  "name": "myclaw.ai",
+  "version": "1.0.0",
+  "description": "Your personal AI server. Full code control. Unlimited possibilities. Powered by MyClaw.ai",
+  "homepage": "https://myclaw.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeoYeAI/myclaw.ai.git"
+  },
+  "keywords": [
+    "myclaw",
+    "openclaw",
+    "ai-agent",
+    "ai-server",
+    "automation",
+    "skills",
+    "clawhub"
+  ],
+  "author": "MyClaw.ai",
+  "license": "MIT"
+}
