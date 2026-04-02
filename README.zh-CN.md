@@ -1,12 +1,14 @@
 <div align="center">
 
-# MyClaw.ai
+# 🚀 MyClaw.ai
 
-[![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue)](https://myclaw.ai)
+[![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=for-the-badge)](https://myclaw.ai)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2Fmyclaw-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/r/myclaw)
+[![Twitter](https://img.shields.io/badge/Twitter-@MyClaw__Official-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MyClaw_Official)
 
-你的个人 AI 服务器。完全代码控制。无限可能。
+**你的个人 AI 服务器。完全代码控制。无限可能。**
 
-[English](./README.md) | 中文
+[English](./README.md) · [中文](./README.zh-CN.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [Русский](./README.ru.md) · [日本語](./README.ja.md) · [Italiano](./README.it.md) · [Español](./README.es.md)
 
 </div>
 
